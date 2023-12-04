@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-arindam
+- 👋 Hi, I’m @k-arindam < Arindam-Karmakar >
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... System Design
 - 💞️ I’m looking to collaborate on ... Flutter, Swift & C++
