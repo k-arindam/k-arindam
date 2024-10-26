@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... System Design
 - 💞️ I’m looking to collaborate on ... Flutter, Swift & C++
-- 📫 How to reach me ... arindamk410@gmail.com
+- 📫 How to reach me ... connect@karindam.in
 
 -------------------------------------------------------------------
 
