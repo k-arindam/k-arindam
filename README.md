@@ -2,7 +2,11 @@
 - 👀 I’m interested in ... Software Development & Video Editing
 - 🌱 I’m currently learning ... System Design & DaVinci Resolve
 - 💞️ I’m looking to collaborate on ... Swift, SwiftUI, Flutter, Dart, C++, Qt & Rust
-- 📫 How to reach me ... connect@karindam.in
+
+-------------------------------------------------------------------
+
+#### 📫 Socials
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect@karindam.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arindam-karmakar) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5YnReGBmwP) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@arindamk410) 
 
 -------------------------------------------------------------------
 
@@ -11,9 +15,15 @@
 -------------------------------------------------------------------
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=k-arindam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=k-arindam&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=k-arindam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-arindam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript)
 
+
+-------------------------------------------------------------------
+
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=k-arindam&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 -------------------------------------------------------------------
 
