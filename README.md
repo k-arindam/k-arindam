@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-arindam < Arindam-Karmakar >
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... System Design
-- 💞️ I’m looking to collaborate on ... Flutter, Swift & C++
+- 👀 I’m interested in ... Software Development & Video Editing
+- 🌱 I’m currently learning ... System Design & DaVinci Resolve
+- 💞️ I’m looking to collaborate on ... Swift, SwiftUI, Flutter, Dart, C++, Qt & Rust
 - 📫 How to reach me ... connect@karindam.in
 
 -------------------------------------------------------------------
