@@ -29,7 +29,7 @@
 
 #### ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=k-arindam/SwiftNP,k-arindam/SwiftUICamera,k-arindam/nukiveedge,k-arindam/AwesomeNavigation,k-arindam/multipeer_connectivity&type=Timeline&theme=dark)](https://www.star-history.com/#k-arindam/SwiftNP&k-arindam/SwiftUICamera&k-arindam/nukiveedge&k-arindam/AwesomeNavigation&k-arindam/multipeer_connectivity&Timeline&theme=dark)
+[![Star History Chart](https://api.star-history.com/svg?repos=k-arindam/SwiftNP,k-arindam/SwiftUICamera,k-arindam/nukiveedge,k-arindam/AwesomeNavigation,k-arindam/multipeer_connectivity&type=Timeline&theme=dark)](https://www.star-history.com/#k-arindam/SwiftNP&k-arindam/SwiftUICamera&k-arindam/nukiveedge&k-arindam/AwesomeNavigation&k-arindam/multipeer_connectivity&Timeline)
 
 
 ![](https://visitcount.itsvg.in/api?id=k-arindam&icon=6&color=0)
